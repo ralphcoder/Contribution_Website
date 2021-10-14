@@ -10,7 +10,7 @@ Step 2-Clone it to your local machiene
 git clone https://github.com/Buddhad/Contribution_Website.git
 ```
 
-Step 3-make changes to the repository!
+Step 3-Make changes to the repository!
 
 step 4-Commit and create a Pull Request
 
